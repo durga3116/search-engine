@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+sqlite3
+sentece
+torch
+sentence_transformers
+chromadb
+streamlit
